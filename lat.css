@@ -92,6 +92,7 @@ body {
 #container .section .content img {
 
   min-width: 400px;
+  max-width: 450px;
 
 }
 
